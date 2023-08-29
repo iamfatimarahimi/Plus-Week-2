@@ -1,0 +1,40 @@
+body{
+    font-family: 'Black Ops One', cursive;
+        font-family: 'PT Serif', serif;
+        background: url(clouds.jpg )  no-repeat;
+    }
+.card{
+    opacity: 0.8;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    font-weight: 700;
+    text-align: center;
+    margin: 250px;
+}
+.btn:hover{
+ background-color: brown;
+}
+.btn-current{
+    color: #fff;
+    background-color: lightgreen;
+}
+.row{
+    margin-top: 15px;
+}
+li {
+    list-style: none;
+}
+.card-title{
+    font-weight: 700;
+    margin-top: 15px;
+}
+.card-text{
+    padding: 50px;
+    color: darkgray;
+}
+.list-2 li{
+    font-size: 25px;
+    color: rgb(74, 73, 73);
+}
+.list-3 li{
+    color: darkgrey;
+}
